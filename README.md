@@ -1,2 +1,3 @@
 # hello-world
-This is my tutorial project
+
+My name is Bunmi Adesoye, i am a developer and graphic designer. 
